@@ -1,0 +1,44 @@
+UserStory: Create a file with all the commands I wrote
+As a user of the JShell, I want to be able to capture the output of the commands
+and save it onto a file
+Estimated Time: 4 hours
+
+UserStory: List all subdirectories
+As a user of the JShell, I want to be able to see all the content of my current
+working directory and all of its subdirectories. 
+Estimated Time: 3 hours
+
+UserStory: Move directories or files
+As a user of the JShell, I want to be able to move a directory/file to another 
+directory/path.
+Estimated Time: 1 hour
+
+UserStory: Copy directories
+As a user of the JShell, I want to be able to create a copy of a directory or 
+file and place it into another path or directory.
+Estimated Time: 1 hour
+
+UserStory: Retrieve a file from a URL
+As a user of the JShell, I want to be able to retrieve a file from a URL and 
+place it in my current directory
+Estimated Time: 3 hour
+
+UserStory: Execute previous commands
+As a user of the JShell, I want to be able to use the command I previously
+typed on the shell
+Estimated Time: 2 hour  
+
+UserStory: View content of multiple files at once
+As a user of the JShell, I want to be able to view the contents of multiple
+files at once
+Estimated Time: 1 hour
+
+UserStory: Find lines containing my regex
+As a user of the JShell, I want to be able to find all of the lines containing 
+the regex/string
+Estimated Time: 4 hour
+
+UserStory: Find all file containing my regex 
+As a user of the JShell, I want to be able to get all of the files that contain
+the regex I specified.
+Estimated Time: 4 hour

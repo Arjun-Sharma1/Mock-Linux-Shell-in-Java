@@ -1,0 +1,33 @@
+//Sprint 4 Backlog.  
+November 15 to November 20
+
+
+Product Backlog items to be implemented:
+a) Retrieve a file from a URL
+b) Find lines containing my regex
+c) Find all files containing my regex 
+d) Add test cases/comment code
+
+Specific tasks to be accomplished:
+a-1. Fix ! command not being put into history
+a-2. Allow ls to take multple arguments/paths
+b-1. Start creating test cases
+b-2. Add comments to current code/java docs
+c-1. Create the geturl class
+c-2. Implement the get url class
+d-1. Implement grep command for multiple files
+d-2. Finish debugging grep command
+
+These tasks are assigned as follows:
+
+User: Arjun
+Tasks: a-1, a-2
+
+User: Taras
+Tasks: b-1,b-2
+
+User: Tanay
+Tasks: d-1,d-2
+
+User: Joseph
+Tasks: c-1,c-2

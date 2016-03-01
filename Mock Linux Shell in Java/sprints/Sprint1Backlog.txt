@@ -1,0 +1,39 @@
+//Sprint # Backlog.  
+October 18 to October 23
+
+
+Product Backlog items to be implemented:
+a) Navigate the contents of the file system
+b) Exit the shell
+c) Check if User input is valid
+d) Check what Files I Have in My Current Directory
+e) Update and add crc cards
+
+Specific tasks to be accomplished:
+a-1. (Exception) Code exception class.
+a-2. (CRC Cards) Adjust crc cards.
+a-3.  Start coding man class
+b-1. (Tree) Code Tree class.
+b-2. (Planing) Theorize other classes.
+b-3. (CRC Cards) Adjust crc cards.
+c-1. (File) Write the base code for the File class
+c-2. (JShell) Begin coding the structure of the command line interpreter
+c-3. Attempt to code echo class
+d-1. (Directory) Write the base code for the directory class
+d-2. (CRC Cards) Adjust crc cards.
+d-3. Attempt to start mkdir class
+
+
+These tasks are assigned as follows:
+
+User: Arjun
+Tasks: a-1, a-2, a-3
+
+User: Tanay
+Tasks: b-1, b-2, b-3
+
+User: Joseph
+Tasks: c-1, c-2
+
+User: Taras
+Tasks: d-1, d-2

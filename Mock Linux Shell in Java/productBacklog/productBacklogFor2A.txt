@@ -1,0 +1,59 @@
+Story: Create new Directories With a Specific Name
+As a user of the JShell, I want to be able to create a directory so that I can 
+better organize my files
+Estimated time implement: 2 Hours
+
+Story: Exit the shell
+As a user of the JShell, I want to be able to close the program at any given 
+time so that I can save memory on my computer
+Estimated time implement: 30 minutes
+
+Story: Check what Files I Have in My Current Directory
+As a user of the JShell, I want to be able to see what files are in my current
+directory so that I can know what I have saved on my computer.
+Estimated time implement: 1 hour
+
+Story: See the path for my current working directory
+As a user of the JShell, I want to be able to see the path of my current 
+working directory so that I know where my file is located and don't have to 
+search for it next time.
+Estimated time implement: 1 hours
+
+Story: Save my old directory and add a new directory that will be my current working directory
+Estimated time implement: 3 hours
+
+Story: Go Back to the Previous Directory
+As a user of the Jshell, I want to be able to go back the the previous 
+directory I was working in so I don't have to waste time searching for my 
+previous directory
+Estimated time implement: 30 minutes
+
+Story: See my recent commands
+As a user of the Jshell, I want to be able to see my recent/previous commands
+so that I can keep track of how I altered my file(s).
+Estimated time implement: 1 hour
+
+Story: See contents of my file
+As a user of the JShell, I want to be able to see the contents of my file so
+I can edit it and make changes to it.
+Estimated time implement: 2 hours
+
+Story: Save text that I type into shell into a file
+As a user of the JShell, I want to be able to save text I write on the JShell
+so that I am able to write reminders down for later or my ideas.
+Estimated time implement: 2 hours
+
+Story: Add text to a existing file
+As a user of the JShell, I want to be add text to an already exisiting file
+so that I can keep all my ideas in one place.
+Estimated time implement: 30 minutes
+
+Story: Find Help
+As a user of the JShell, I want to be able to get help to find what commands
+are on the JShell and what they do so that I can navigate smoothly on the 
+JShell.
+Estimated time implement: 2 hours
+
+
+
+

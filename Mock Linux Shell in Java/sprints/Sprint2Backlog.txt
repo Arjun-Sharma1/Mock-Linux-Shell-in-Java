@@ -1,0 +1,41 @@
+//Sprint #2 Backlog.  
+October 24 to October 29
+
+
+Product Backlog items to be implemented:
+a) Create directories with specific names
+b) See path of current working directory
+c) See contents of current working directory
+d) Go back to previous directory
+e) Add text to an existing file, and create a file
+f) Push and pop commands
+
+Specific tasks to be accomplished:
+a-1) Create ls class
+a-2) Finish coding the ls class
+a-3) Debug ls class and fix and errors
+b-1) Create pwd class
+b-2) Code the pwd class
+b-3) Debug pwd class and fix errors
+b-4) Complete man class
+c-1) Code the echo class
+c-2) Implement commands into the jshell class
+c-3) Fix the file class
+d-1) Create the pushd and popd class
+d-2) Check for errors in the mkdir class
+d-3) Finish the directory class
+
+
+These tasks are assigned as follows:
+
+User: Arjun
+Tasks: a-1, a-2, a-3
+
+User: Tanay
+Tasks: b-1, b-2, b-3
+
+User: Joseph
+Tasks: c-1, c-2, c-3
+
+User: Taras
+Tasks: d-1, d-2, d-3

@@ -1,0 +1,36 @@
+//Sprint 4 Backlog.  
+November 9 to November 13
+
+
+Product Backlog items to be implemented:
+a) List all subdirectories of a directory
+b) Create a file with all the commands I wrote
+c) Move directories or files
+d) Copy directories
+e) View content of multiple files at once
+
+Specific tasks to be accomplished:
+a-1. Implement ls to recursively view all subdirectories
+a-2. Finish Coding Ls class
+b-1. Create copy and mv classes
+b-2. Implement the copy command
+b-3. Implement the mv command
+b-4. Implement mv to work with relative paths
+c-1. Create new exception class to account for new errors
+c-2. Implement echo on a command(Save the command and its output)
+d-1. Implement ! to find a previous command after n amount of commands
+d-2. Create grep command
+
+These tasks are assigned as follows:
+
+User: Arjun
+Tasks: a-1, a-2
+
+User: Taras
+Tasks: b-1,b-2, b-3, b-4
+
+User: Tanay
+Tasks: d-1,d-2
+
+User: Joseph
+Tasks: c-1,c-2

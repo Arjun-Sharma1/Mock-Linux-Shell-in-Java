@@ -1,0 +1,35 @@
+//Sprint # Backlog.  
+October 31 to November 5th
+
+
+Product Backlog items to be implemented:
+a) See my recent commands
+b) See contents of my file
+c) Find Help
+d) JUnit Test Cases
+
+Specific tasks to be accomplished:
+a-1. Finish Coding History Class
+a-2. Finish Coding Ls class
+b-1. Create test cases for all classes
+b-2. Start commenting on classes
+b-3. (CRC Cards) Adjust crc cards.
+c-1. Implement new polymorphism/interface design into Jshell
+c-2. Fix echo class
+d-1. Debug mkdir class
+d-2. Assist with implementing new design for Jshell
+
+
+These tasks are assigned as follows:
+
+User: Arjun
+Tasks: a-1, a-2
+
+User: Tanay
+Tasks: b-1, b-2
+
+User: Joseph
+Tasks: c-1, c-2
+
+User: Taras
+Tasks: d-1, d-2
