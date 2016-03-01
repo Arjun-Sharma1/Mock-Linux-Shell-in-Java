@@ -1,0 +1,9 @@
+Class Name:    Pwd
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Prints the current working directory with the whole path
+
+Collaborators:
+* Directory

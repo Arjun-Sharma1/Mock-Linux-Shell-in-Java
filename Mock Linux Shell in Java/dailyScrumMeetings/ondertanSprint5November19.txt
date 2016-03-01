@@ -1,0 +1,11 @@
+What did I do this time?
+    - Completed grep class main functionality
+
+What do I plan to do now?
+    - Add recursion to grep
+    - Add test cases for grep
+    - Complete old test cases that were not optimal
+    - help with get
+
+Am I blocked on anything?
+	- the recursion for grep

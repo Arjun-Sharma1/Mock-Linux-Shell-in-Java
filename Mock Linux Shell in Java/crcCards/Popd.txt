@@ -1,0 +1,9 @@
+Class Name:	Popd
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Checks if there is a directory stored, changes the current directory to the stored directory
+
+Collaborators:
+* Directory

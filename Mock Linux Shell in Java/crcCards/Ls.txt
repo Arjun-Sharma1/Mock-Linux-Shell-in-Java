@@ -1,0 +1,10 @@
+Class Name:	Ls
+Parent Class: 	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Prints out all files in current directory or in a given path
+* Prints out all directories in the current directory or in a given path
+
+Collaborators: 
+* Directory

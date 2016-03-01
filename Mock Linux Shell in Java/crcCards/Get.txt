@@ -1,0 +1,14 @@
+Class Name:	Get
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Gets all text files from a given URL
+* Saves all of the text files into current directory
+
+Collaborators:
+* Directory
+* File
+* PathChecker
+* SplitPath
+* PathWalker

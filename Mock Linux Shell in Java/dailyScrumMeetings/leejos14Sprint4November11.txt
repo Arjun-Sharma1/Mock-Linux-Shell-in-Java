@@ -1,0 +1,15 @@
+What did I do last time?
+	- Add type contracts to echo class
+	- Add type contracts to file class
+	- Add type contracts to exit class
+	- Add type contracts to cat class
+	- Made echo more modular by splitting all the functions into seperate methods
+
+
+What do I plan to do now?
+	- Added error class
+	- Add save command to echo
+
+
+Am I blocked on anything?
+    - Blocked on adding save command to echo

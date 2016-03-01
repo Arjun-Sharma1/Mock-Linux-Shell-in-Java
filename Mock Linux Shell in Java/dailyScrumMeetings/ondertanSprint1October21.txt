@@ -1,0 +1,12 @@
+What did I do last time?
+    - considered the implementation of the overall shell
+    - brainstormed ideas but the crcCards
+    - Started on the tree class
+
+What do I plan to do now?
+    - Finish the tree class
+    - work on new tasks for sprint 2
+    - finalize the design portion, as there were some undecided parts among the group
+
+Am I blocked on anything?
+    - we are thinking of working off a tree, the idea needs to be smoothed out and the implementation of the tree needs to be perfected, have some issues with adding parents as of this moment

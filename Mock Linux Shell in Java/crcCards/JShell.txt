@@ -1,0 +1,15 @@
+Class Name:	JShell
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Accepts known 
+
+* Start up when ran by the user
+* Shut down when 'exit' is entered by user
+* Provide access to different commands for the user
+* Display a command line and accept a commands from keyboard
+
+Collaborators:
+* CommandInterface
+* InputParser

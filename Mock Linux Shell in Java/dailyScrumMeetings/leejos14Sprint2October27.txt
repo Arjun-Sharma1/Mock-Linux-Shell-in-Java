@@ -1,0 +1,12 @@
+What did I do last time?
+    - Implemented hashtables into the jshell
+    - Worked on Echo class
+    - Finished the File class
+
+
+What do I plan to do now?
+	- Finish echo class
+	- Interconnect the JShell class with other classes
+
+Am I blocked on anything?
+    - Blocked on completing the Echo class

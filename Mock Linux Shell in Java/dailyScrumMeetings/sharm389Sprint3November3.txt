@@ -1,0 +1,15 @@
+What did I do this time?
+    - Added an interface to our design
+    - Added an execute method for each class
+    - Created new Jshell code
+    - Coded input parser class
+    - Coded path checker class
+
+What do I plan to do now?
+    - Assist with J unit tests
+    - Start commenting my own code
+    - Fix variable names
+    - Read over crc cards
+
+Am I blocked on anything?
+	- Nope!

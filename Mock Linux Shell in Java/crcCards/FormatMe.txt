@@ -1,0 +1,10 @@
+Class Name: 	FormatMe
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities: 
+* Formats the string for appropriate inputs
+
+
+Collaborators:
+

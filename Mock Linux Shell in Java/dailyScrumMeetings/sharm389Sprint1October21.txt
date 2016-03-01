@@ -1,0 +1,16 @@
+What did I do this time?
+    - Added crc cards
+    - Added items to product backlog
+    - Added items to sprint backlog
+    - Updated old crc cards
+    - Worked on Jshell class
+    - Assisted with Tree class
+    - Added exception class
+
+What do I plan to do now?
+    - Work on exception class
+    - Fix product backlog
+    - Work on History Class
+
+Am I blocked on anything?
+    - Blocked on fixing exception class

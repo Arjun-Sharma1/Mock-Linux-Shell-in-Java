@@ -1,0 +1,13 @@
+What did I do last time?
+	- Created an error class
+	- Made cat accept multiple files of same directory
+	- Added comments to new cat method
+
+
+What do I plan to do now?
+	- Fill in error class
+	- Implement partial and full paths into class
+
+
+Am I blocked on anything?
+    - Making cat take partial and full paths

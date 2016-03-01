@@ -1,0 +1,12 @@
+What did I do last time?
+	- implemented partial and full paths to echo
+	- implemented partial and full paths to cat
+	- created geturl class
+
+What do I plan to do now?
+	- finish geturl class
+	- finish history command
+
+
+Am I blocked on anything?
+    - finish geturl

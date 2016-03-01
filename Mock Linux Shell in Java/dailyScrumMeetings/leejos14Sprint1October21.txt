@@ -1,0 +1,15 @@
+What did I do last time?
+    - Checked out from the repository
+    - Made crc cards
+    - Updated crc cards to meet new definitions of classes
+    - Made framework of JShell
+    - Helped making tree for directory class
+    - Added File class
+
+What do I plan to do now?
+    - Finish JShell framework
+    - Finish the File class
+    - Make echo class
+
+Am I blocked on anything?
+    - Blocked on making File class to work with trees

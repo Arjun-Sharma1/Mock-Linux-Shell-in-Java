@@ -1,0 +1,10 @@
+What did I do this time?
+    - complete Pwd class
+    - Worked on the man class
+
+What do I plan to do now?
+    - Complete man class
+    - Test pwd class
+
+Am I blocked on anything?
+    - General limitations, like random bugs and logical misconceptions 

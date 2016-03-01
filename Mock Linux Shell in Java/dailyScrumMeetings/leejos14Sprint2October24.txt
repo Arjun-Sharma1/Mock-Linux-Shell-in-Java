@@ -1,0 +1,13 @@
+What did I do last time?
+    - Finish JShell framework
+    - worked on the File class
+    - Worked on Echo class
+
+
+What do I plan to do now?
+	- Finish File class
+	- Finish echo class
+	- Interconnect the JShell class with other classes
+
+Am I blocked on anything?
+    - Blocked on making Echo class

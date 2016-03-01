@@ -1,0 +1,10 @@
+What did I do this time?
+    - Started on grep class
+
+What do I plan to do now?
+    - Complete grep command
+    - Add test cases for grep
+    - Complete old test cases that were not optimal
+
+Am I blocked on anything?
+	- No, thanks to the video about Regex, there are no more misconceptions

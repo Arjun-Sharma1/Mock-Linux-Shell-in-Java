@@ -1,0 +1,16 @@
+What did I do this time?
+    - Added sprint log #2
+    - Coded the history class
+    - Coded some of the man class
+    - Debugged the history class
+    - Added a few commands to Jshell
+    - Assisted with the Tree class
+    - Commented on history and man class
+
+What do I plan to do now?
+    - Create the ls class
+    - Check the crc cards since we recently updated design
+    - Assist with the echo and directory class
+
+Am I blocked on anything?
+	- Not at the moment

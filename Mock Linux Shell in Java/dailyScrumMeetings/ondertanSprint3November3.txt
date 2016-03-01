@@ -1,0 +1,13 @@
+What did I do this time?
+    - Debug Pwd and allow it to work with Shell
+    - JUnit test pwd class
+
+What do I plan to do now?
+    - JUnit test mkdir class
+    - JUnit test exit class
+    - JUnit test man class
+    - JUnit test cd class
+    - JUnit test ls class
+
+Am I blocked on anything?
+    - Having to get the same type of output to be able to use assert equal

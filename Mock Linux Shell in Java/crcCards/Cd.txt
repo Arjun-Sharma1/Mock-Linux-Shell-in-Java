@@ -1,0 +1,11 @@
+Class Name:	Cd
+Parent Class: 	NONE
+Subclasses: 	NONE
+
+Responsibilities:
+* Change the current working directory
+* Move up and down into a directory
+
+
+Collaborators: 
+* Directory

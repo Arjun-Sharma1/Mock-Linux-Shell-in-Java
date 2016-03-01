@@ -1,0 +1,12 @@
+Class Name:	Echo
+Parent Class:	NONE
+Subclasses:	Cat
+
+Responsibilities:
+* Creates a new file if file does not exist
+* Overwrites old contents of if if it already exists
+* Appends content to a file
+
+Collaborators:
+* File
+* Directory

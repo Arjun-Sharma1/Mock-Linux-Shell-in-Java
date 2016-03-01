@@ -1,0 +1,24 @@
+Class Name:	StdOutput
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Redirects a commands output into a file
+* Can overwrite a file or append to a file also
+
+Collaborators:
+* Directory
+* File
+* PathChecker
+* SplitPath
+* PathWalker
+* Reflection
+* Man
+* Mkdir
+* Cat
+* Ls
+* Grep
+* History
+* Mv
+* Pushd
+* Popd

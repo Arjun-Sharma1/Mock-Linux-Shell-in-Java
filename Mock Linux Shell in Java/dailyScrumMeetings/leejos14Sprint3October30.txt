@@ -1,0 +1,14 @@
+What did I do last time?
+    - Finished echo class
+    - Finished cat class
+    - Added additional functionality to file class
+
+
+What do I plan to do now?
+	- Add comments to echo class
+	- Add comments to file class
+	- Add comments to exit class
+	- Add comments to cat class
+
+Am I blocked on anything?
+    - Blocked on added comments

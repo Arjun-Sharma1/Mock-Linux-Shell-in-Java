@@ -1,0 +1,17 @@
+What did I do this time?
+    - Coded most of ls class
+    - Changed crc cards since we got rid of some classes
+    - Still working on the echo class
+    - Directory class renamed to tree class and finished
+    - Assited in implementing hashtables into jshell
+
+What do I plan to do now?
+    - Adding hashtables to man class
+    - Finish coding rest of man class
+    - Assist on optimizing jshell
+    - Debugging ls class
+    - Continue working/assit on echo class
+
+Am I blocked on anything?
+	- Debugging the ls class(Still causing some errors)
+	- Trying to find ways to add polymorphism to design

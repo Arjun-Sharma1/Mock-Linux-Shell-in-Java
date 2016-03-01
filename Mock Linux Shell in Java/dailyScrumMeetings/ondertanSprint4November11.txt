@@ -1,0 +1,10 @@
+What did I do this time?
+    - Read and comprehended the new requirements
+    - Went over some old code from A2
+
+What do I plan to do now?
+    - Create grep command
+    - Implement ! command
+
+Am I blocked on anything?
+	- Implementing the parser in to my functions

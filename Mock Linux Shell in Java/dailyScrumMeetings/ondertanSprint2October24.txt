@@ -1,0 +1,13 @@
+What did I do this time?
+    - Added crc cards
+    - Updated old crc cards
+    - Worked on the Tree class
+
+What do I plan to do now?
+    - Work on man class
+    - Create pwd class
+    - Complete pwd class
+    - Debug pwd class
+
+Am I blocked on anything?
+    - General limitations, like random bugs and logical misconceptions 

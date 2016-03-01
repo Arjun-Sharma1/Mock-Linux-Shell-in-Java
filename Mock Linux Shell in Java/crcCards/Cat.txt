@@ -1,0 +1,10 @@
+Class Name:	Cat
+Parent Class:	Echo
+Subclasses:	NONE
+
+Responsibilities:
+* Display the name and the contents of a file 
+
+Collaborators:
+* Directory class
+* File

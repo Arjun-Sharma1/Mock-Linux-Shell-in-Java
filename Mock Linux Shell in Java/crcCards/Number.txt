@@ -1,0 +1,13 @@
+Class Name:	Number
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Recalls a command in the history
+
+
+Collaborators: 
+* Directory
+* Tree
+* History
+* Reflection

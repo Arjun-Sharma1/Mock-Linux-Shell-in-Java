@@ -1,0 +1,10 @@
+Class Name:	File
+Parent Class: 	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Stores the name of the file
+* Stores contents of the file
+
+Collaborators: 
+* NONE

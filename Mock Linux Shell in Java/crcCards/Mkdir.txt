@@ -1,0 +1,13 @@
+Class Name:	Mkdir
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Create a directory in current directory
+* Create a directory in a given file path
+
+
+Collaborators: 
+* Directory
+* Tree
+* FormatMe

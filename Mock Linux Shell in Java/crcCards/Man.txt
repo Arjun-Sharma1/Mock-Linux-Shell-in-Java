@@ -1,0 +1,10 @@
+Class Name:	Man
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Prints a manual for all the commands available in the shell
+
+
+Collaborators:
+* NONE

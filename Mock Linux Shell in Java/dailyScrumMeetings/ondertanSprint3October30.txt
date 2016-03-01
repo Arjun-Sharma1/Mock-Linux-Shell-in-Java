@@ -1,0 +1,12 @@
+What did I do this time?
+    - implemented new functionality to the Pwd class
+    - Finished the man class
+
+What do I plan to do now?
+    - Think up test scenarios
+    - Start test cases
+    - Update all the crcCards (as they became out of date as we were developing)
+
+Am I blocked on anything?
+    - Doing test cases are very tedious
+    - Limited knowledge of how testing in java works

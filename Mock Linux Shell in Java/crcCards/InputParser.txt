@@ -1,0 +1,10 @@
+Class Name:	InputParser
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Determines whether an input is valid or not
+
+
+Collaborators:
+* NONE

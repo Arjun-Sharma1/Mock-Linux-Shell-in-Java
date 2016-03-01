@@ -1,0 +1,11 @@
+Class Name:	History
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Store commands from the shell
+* Returns all the items in the history 
+* Returns n number of the most recent items in the history
+
+Collaborators:
+* Directory

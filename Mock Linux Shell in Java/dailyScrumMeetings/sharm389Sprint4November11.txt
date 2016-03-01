@@ -1,0 +1,14 @@
+What did I do this time?
+    - Attempted to add -r command to ls
+    - Tried to implement displaying all ls subdirectories
+    - Added pathchecker class
+    - Implemented path checker class into ls
+
+What do I plan to do now?
+    - Fix the recursively display subdirectories
+    - Add -r command to jshell
+    - Debug ls
+    - Add pathchecker to other classes
+
+Am I blocked on anything?
+	- Recursively displaying all subdirectories

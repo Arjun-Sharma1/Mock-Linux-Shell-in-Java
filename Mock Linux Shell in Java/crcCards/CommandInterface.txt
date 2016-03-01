@@ -1,0 +1,9 @@
+Class Name:	CommandInterface
+Parent Class: 	NONE
+Subclasses: 	NONE
+
+Responsibilities:
+* Framework of all commands
+
+Collaborators: 
+* Directory

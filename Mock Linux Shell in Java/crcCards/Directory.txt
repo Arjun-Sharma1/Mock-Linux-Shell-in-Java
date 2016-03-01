@@ -1,0 +1,14 @@
+Class Name:	Directory
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Organize folders and files into a hierarchical structure
+* Keeps track of the current working directory
+* Changes current directory
+* Gets content from a tree node
+* Check if certain directory exists
+
+Collaborators:
+* File
+* Tree

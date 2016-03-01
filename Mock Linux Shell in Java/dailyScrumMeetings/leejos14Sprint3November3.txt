@@ -1,0 +1,16 @@
+What did I do last time?
+	- Add comments to echo class
+	- Add comments to file class
+	- Add comments to exit class
+	- Add comments to cat class
+
+
+What do I plan to do now?
+	- Add type contracts to echo class
+	- Implement singletones to echo class
+	- Add type contracts to file class
+	- Add type contracts to exit class
+	- Add type contracts to cat class
+
+Am I blocked on anything?
+    - Blocked on singleton design for echo

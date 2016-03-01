@@ -1,0 +1,12 @@
+Class Name:	Grep
+Parent Class:	Echo
+Subclasses:	NONE
+
+Responsibilities:
+* Finds lines in files that has the regular expression and prints it
+
+Collaborators:
+* Directory
+* File
+* PathChecker
+* SplitPath

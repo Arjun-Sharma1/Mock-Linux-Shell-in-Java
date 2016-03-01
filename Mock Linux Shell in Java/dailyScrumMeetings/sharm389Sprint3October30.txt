@@ -1,0 +1,17 @@
+What did I do this time?
+    - Still Coding ls(Had to restart after a huge mistake)
+    - Refactoring some code for classes
+    - Optimized Jshell
+    - Created Sprint Backlog 3
+    - Finished man class
+
+What do I plan to do now?
+    - Debugging mkdir and ls classes
+    - Trying to implement an interface
+    - Trying to incorporate inheritence into echo class
+    - Debug cd class
+
+
+Am I blocked on anything?
+	- Trying to find ways to make Jshell more efficient using one of the design
+	patterns

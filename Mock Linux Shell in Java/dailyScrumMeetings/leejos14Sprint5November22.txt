@@ -1,0 +1,12 @@
+What did I do last time?
+	- Finished get calss
+	- fixed echo class
+	- Fixed cat class
+	- Added test cases for SplitPath and FileExists
+	- Added crc for get url
+
+What do I plan to do now?
+
+
+
+Am I blocked on anything?

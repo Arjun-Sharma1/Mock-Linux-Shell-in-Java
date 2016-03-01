@@ -1,0 +1,13 @@
+Class Name:	Tree
+Parent Class:	NONE
+Subclasses:	NONE
+
+Responsibilities:
+* Create a Tree
+* Add nodes
+* Subtract nodes
+* Read contents of nodes
+* Be able to store String and node in nodes
+
+Collaborators:
+* File
